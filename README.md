@@ -7,6 +7,13 @@ A Vim plugin that displays markdown headers with Unicode double-struck or fullwi
 - Configurable font styles (double-struck or fullwidth) per header level
 - Optional all-caps transformation per header level
 - Uses Vim's native conceal feature
+- Yank copies the original text (works with clipboard or [OSC52](https://github.com/ojroques/vim-oscyank))
+- Cut and Paste or screenshot from the terminal will capture the Unicode titles
+
+Screenshot using [Solarized8](https://github.com/lifepillar/vim-solarized8) and [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
+
+![Screenshot](https://github.com/user-attachments/assets/3f6cf6a0-5ce6-4744-bc50-f21f2eeaafd9)
+
 
 ## Installation
 
